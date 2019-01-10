@@ -17,8 +17,8 @@ html, body {
     height: 100%;
 	background-color: #f9f9f9;
 	padding: 0px;
-	margin-right: 5px;
-	margin-left: 5px;
+	margin-right: auto;
+	margin-left: auto;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }

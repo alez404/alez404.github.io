@@ -16,8 +16,8 @@ html, body {
 	font-weight: 400;
     height: 100%;
 	background-color: #f9f9f9;
-	padding: 0;
-	margin: 0;
+	padding: 10px;
+	margin: 10px;
 }
 *, *:before, *:after {
 	box-sizing: inherit;

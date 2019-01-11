@@ -16,11 +16,11 @@ html, body {
 	font-weight: 400;
     height: 100%;
 	background-color: #f9f9f9;
-	padding: 0px;
-	margin-right: 1%;
-	margin-left: 1%;
-	margin-top: 0px;
-	margin-bottom: 0px;
+	margin: 0px;
+	padding-right: 1%;
+	padding-left: 1%;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 *, *:before, *:after {
 	box-sizing: inherit;

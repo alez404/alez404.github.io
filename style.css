@@ -20,10 +20,10 @@ html, body {
     height: 100%;
 	background-color: #f9f9f9;
 	margin: 0px;
-	padding-right: 1%;
-	padding-left: 1%;
-	padding-top: 0%;
-	padding-bottom: 0%;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
 }
 *, *:before, *:after {
 	box-sizing: inherit;
@@ -166,7 +166,7 @@ blockquote ul {
 /***** Styles *****/
 main.container {
     height: 100%;
-    padding: 0;
+    padding: 1%;
     margin: 0;
     display: -webkit-box;
     display: -moz-box;
